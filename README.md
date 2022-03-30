@@ -1,6 +1,7 @@
 ## Olá, meu nome é Mateus Brandão
-
+- 🔭 Engenheiro Eletricista em transição de carreira para Data Scientist
 - 🌱 Estou estudando Data Science pelo Desenvolve Boticario 2022
+- 📄 Melhorando as habilidades em Python, SQL, Regressão Linear e Machine Learning
 
 <div align="center">
   <a href="https://github.com/Mateus-Brandao">
