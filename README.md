@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando: **Data Science pelo Desenvolve Boticário 2022**
 
-- 📄 Temas que estou estudando e treinando: **Análise e tratamento de Dados, Python (libs: Pandas, Numpy, Seaborn, Matplotlib, Scipy, Scikit-learn, entre outras), Machine Learning, Data Visualization, SQL e Power BI.**
+- 📄 Temas que estou estudando e treinando: **Análise e Tratamento de Dados, Python (libs: Pandas, Numpy, Seaborn, Matplotlib, Scipy, Scikit-learn, entre outras), Machine Learning, Data Visualization, SQL e Power BI.**
 
 - 📫 Entre em contato comigo pelo e-mail: **mateusbrandaocosta@gmail.com**
 
