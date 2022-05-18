@@ -1,9 +1,9 @@
 <h1 align="center">Olá, meu nome é Mateus Brandão da Costa</h1>
-<h3 align="center">Sou um Engenheiro Eletricista em transição de carreira para Data Scientist. Conheci a área de Data Science e fiquei maravilhado pela manipulação dos dados e em quanta informação poderíamos tirar disso, então decidi que é isso que quero fazer na minha vida!</h3>
+<h3 align="center">Sou um Engenheiro Eletricista na área de Data Science. Conheci a área de Data Science e fiquei maravilhado pela manipulação dos dados e em quanta informação poderíamos tirar disso, então decidi que é isso que quero fazer na minha vida!</h3>
 
 - 🌱 Atualmente estou estudando: **Data Science pelo Desenvolve Boticário 2022**
 
-- 📄 Temas que estou estudando e treinando: **Análise e Tratamento de Dados, Python (libs: Pandas, Numpy, Seaborn, Matplotlib, Scipy, Scikit-learn, entre outras), Machine Learning, Data Visualization, SQL e Power BI.**
+- 📄 Temas que estou aprimorando minhas habilidades: **Análise e Tratamento de Dados, Python (libs: Pandas, Numpy, Seaborn, Matplotlib, Scipy, Scikit-learn, entre outras), Machine Learning, Data Visualization, SQL e Power BI.**
 
 - 📫 Entre em contato comigo pelo e-mail: **mateusbrandaocosta@gmail.com**
 
